@@ -78,7 +78,7 @@ body {
 }
 
 .landhead p {
-  font-size: 1.8em;
+  font-size: 1.6em;
   margin-top: 5%;
   font-family: "Product Sans";
   font-weight: lighter;
@@ -281,6 +281,7 @@ button {
     margin-top: 2%;
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
     justify-content: center;
   }
   .card {
